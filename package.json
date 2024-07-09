@@ -2,7 +2,7 @@
   "name": "todos-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AleksandrKulaginWork/todos.git",
+  "homepage": "https://aleksandrkulaginwork.github.io/todos/",
   "dependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.14.10",
